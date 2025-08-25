@@ -71,7 +71,7 @@ Final model is saved as final_model.pkl for future use.
 
 **1.Clone the repo**:
 
-git clone https://github.com/your-username/predictive-maintenance.git
+git clone[ https://github.com/your-username/predictive-maintenance.git](https://github.com/HARSHIL-SUTARIYA09/predictive_maintenance)
 cd predictive-maintenance
 
 
